@@ -1,2 +1,2 @@
 # Owen Weis 🐢
-people.tamu.edu/~owenweis
+https://people.tamu.edu/~owenweis
